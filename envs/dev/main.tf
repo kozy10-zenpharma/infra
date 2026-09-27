@@ -1,3 +1,4 @@
+# ZenPharma Dev Environment Terraform Configuration
 locals {
   project = "pharma"
   env     = "dev"
